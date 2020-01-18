@@ -15,4 +15,4 @@
 
 
 ### ERD
-![](images\erd.png)
+![](images/erd.png)

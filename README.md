@@ -15,3 +15,23 @@
 
 ## ERD
 ![](images/erd.png)
+
+
+## 역할
+- 전체 DB Table 설계
+- 검색 결과 데이터 요청 및 출력, 웹 화면 구성
+- 알림 기능
+- 최근 본 맛집 기능
+
+
+### 검색
+![](images/search.gif)
+
+### 내 주변 맛집 찾기
+![](images/surrounding.gif)
+
+### 알림 기능
+![](images/notice.gif)
+
+### localstorage를 이용한 최근 본 맛집 기능
+![](images/resent_store.gif)

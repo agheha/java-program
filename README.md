@@ -25,7 +25,6 @@
 
 
 ### 검색
-![](images/search_01.gif)
 ![](images/search_02.gif)
 카테고리, 지역, 가격대, keyword별 검색이 가능하고, 서비스 목적에 맞도록 현재 시간과 비교하여 영업 중인 store 결과값을 default로 설정하였다.
 
@@ -39,6 +38,6 @@
 
 
 ### 최근 본 맛집 기능
-![](images/resent_store_01.gif)
-![](images/resent_store_02.gif)
+![](images/recent_store_01.gif)
+![](images/recent_store_02.gif)
 localstorage를 이용하여 조회하였던 값들을 가져오도록 설정하였다.

@@ -25,13 +25,20 @@
 
 
 ### 검색
-![](images/search.gif)
+![](images/search_01.gif)
+![](images/search_02.gif)
+카테고리, 지역, 가격대, keyword별 검색이 가능하고, 서비스 목적에 맞도록 현재 시간과 비교하여 영업 중인 store 결과값을 default로 설정하였다.
 
 ### 내 주변 맛집 찾기
 ![](images/surrounding.gif)
+구글 API를 통해 구현한 지도에서 현재 내 위치의 좌표 값을 받아와 DB의 자료와 비교하여
+결과를 도출하였다.
 
 ### 알림 기능
 ![](images/notice.gif)
 
-### localstorage를 이용한 최근 본 맛집 기능
-![](images/resent_store.gif)
+
+### 최근 본 맛집 기능
+![](images/resent_store_01.gif)
+![](images/resent_store_02.gif)
+localstorage를 이용하여 조회하였던 값들을 가져오도록 설정하였다.

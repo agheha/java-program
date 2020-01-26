@@ -35,9 +35,8 @@
 
 ### 알림 기능
 ![](images/notice.gif)
-
+이슈마다 알림을 발생하게 하여 링크를 설정해놓았다.
 
 ### 최근 본 맛집 기능
-![](images/recent_store_01.gif)
-![](images/recent_store_02.gif)
+![](images/recent_store.gif)
 localstorage를 이용하여 조회하였던 값들을 가져오도록 설정하였다.
